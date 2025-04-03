@@ -1,4 +1,4 @@
-layout: default
+theme: Jekyll-theme-merlot
 title: Bienvenido Desarrolladores
 ---
 

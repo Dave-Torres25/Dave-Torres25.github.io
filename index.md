@@ -1,5 +1,4 @@
-theme: Jekyll-theme-merlot
-title: Bienvenido Desarrolladores
+Bienvenido Desarrolladores
 ---
 
 # ¡Hola! 👋

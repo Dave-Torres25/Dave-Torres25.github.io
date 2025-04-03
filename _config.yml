@@ -1,12 +1,12 @@
+theme: jekyll-theme-cayman
+paginate: 5
+paginate_path: "/page:num/"
+
 title: "Blog Producto"
 author: "Grupo D"
 description: "Bienvenido a mi página oficial de GitHub. Aquí comparto mis proyectos y aprendizajes."
 baseurl: ""
 url: "https://Dave-Torres25.github.io"
-
-theme: jekyll-theme-cayman
-paginate: 5
-paginate_path: "/page:num/"
 
 # Plugins para blog
 plugins:

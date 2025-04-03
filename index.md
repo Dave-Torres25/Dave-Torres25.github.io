@@ -6,7 +6,7 @@ Bienvenido Desarrolladores
 Soy **David**, apasionado por la tecnología y los negocios. En este espacio comparto mis proyectos, ideas y herramientas para ayudar a emprendedores con soluciones tecnológicas.
 
 ## 🚀 Proyectos Destacados
-- 🔹 **[Proyecto 1](#)** 
+- 🔹 **[CASO: SOFTWARE RESTAURANTE](#)** 
 - 🔹 **[Proyecto 2](#)** 
 - 🔹 **[Proyecto 3](#)** 
 
